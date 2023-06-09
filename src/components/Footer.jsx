@@ -21,7 +21,7 @@ const Footer = () => {
             textAlign={["center", "left"]}
           >
            Get the live values of Crypto currencies for free.
-           All the crypto currencies in i=opne app.
+           All the crypto currencies in one app.
           </Text>
         </VStack>
       </Stack>
