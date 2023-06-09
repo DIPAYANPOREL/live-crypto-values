@@ -16,7 +16,7 @@ const Footer = () => {
         <VStack w={"full"} alignItems={["center", "flex-start"]}>
           <Text fontWeight={"bold"}>About Us</Text>
           <Text
-            fontSize={"sm"}
+            fontSize={"md"}
             letterSpacing={"widest"}
             textAlign={["center", "left"]}
           >
