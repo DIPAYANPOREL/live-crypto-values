@@ -24,11 +24,6 @@ const Footer = () => {
             at a very cheap price.
           </Text>
         </VStack>
-
-        <VStack>
-          <Avatar boxSize={"28"} mt={["4", "0"]} src={avatarSrc} />
-          <Text>Our Founder</Text>
-        </VStack>
       </Stack>
     </Box>
   );
